@@ -64,8 +64,8 @@ def shopping(ingredients):
     """
     print("Commands :")
     print("f5 : stay")
-    print("f6 : next item")
-    print("f7 : previous item")
+    print("f6 : previous item")
+    print("f7 : next item")
     print("f8 : end list")
     global index, ignore
     while index != -1:
